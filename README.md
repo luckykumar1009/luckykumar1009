@@ -1,4 +1,4 @@
-## Hi there! Welcome to my GitHub! I'm Lucky Kumar, A Data Analyst.
+## Hi there! Welcome to my GitHub! I'm Lucky Kumar, A Software Engineer.
 
 <!--
 **luckykumar1009/luckykumar1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
